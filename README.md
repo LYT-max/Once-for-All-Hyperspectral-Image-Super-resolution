@@ -2,7 +2,7 @@
 
 This repository includes the python and matlab implementation of the proposed algorithm presented in:
 
-Yaoting. Liu, Bin. Yang, Senior Member, IEEE, Qiuhua. He, Xinxin. Liu, Member, IEEE, "Once-for-All-Hyperspectral-Image-Super-resolution", IEEE Transactions on Neural Networks and Learning Systems (Submitted).
+Yaoting. Liu, Bin. Yang, Senior Member, IEEE, Qiuhua. He, Xinxin. Liu, Member, IEEE, Licheng. Liu, Senior Member, IEEE, Xudong. Kang, Senior Member, IEEE, "Once-for-All-Hyperspectral-Image-Super-resolution", IEEE Transactions on Neural Networks and Learning Systems (Submitted).
 
 # Authors' Information
 
@@ -14,6 +14,10 @@ Qiuhua. He, the Hunan Provincial Key Laboratory of Remote Sensing Monitoring of 
 
 Xinxin. Liu, the School of Artificial Intelligence and Robotics, Hunan University, Changsha 410082, China. (e-mail: liuxinxin@hnu.edu.cn).
 
+Licheng. Liu, the School of Artificial Intelligence and Robotics, Hunan University, Changsha 410082, China. (e-mail: lichenghnu@163.com).
+
+Xudong. Kang, the School of Artificial Intelligence and Robotics, Hunan University, Changsha 410082, China. (e-mail: xudong_kang@163.com).
+
 # Condition and terms to use any sources of this project
 
-[1] Yaoting. Liu, Bin. Yang, Senior Member, IEEE, Qiuhua. He, Xinxin. Liu, Member, IEEE, "Once-for-All-Hyperspectral-Image-Super-resolution", IEEE Transactions on Neural Networks and Learning Systems.
+[1] Yaoting. Liu, Bin. Yang, Senior Member, IEEE, Qiuhua. He, Xinxin. Liu, Member, IEEE, Licheng. Liu, Senior Member, IEEE, Xudong. Kang, Senior Member, IEEE, "Once-for-All-Hyperspectral-Image-Super-resolution", IEEE Transactions on Neural Networks and Learning Systems.
